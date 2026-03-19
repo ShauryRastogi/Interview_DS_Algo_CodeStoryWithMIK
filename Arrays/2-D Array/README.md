@@ -257,5 +257,10 @@
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Count%20Submatrices%20with%20Top-Left%20Element%20and%20Sum%20Less%20Than%20k.cpp"> Count Submatrices with Top-Left Element and Sum Less Than k (Leetcode - 3070)</a>
 				</td>
 			</tr>
+			<tr>
+        		<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Count%20Submatrices%20With%20Equal%20Frequency%20of%20X%20and%20Y.cpp"> Count Submatrices With Equal Frequency of X and Y (Leetcode - 3212)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
