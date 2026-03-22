@@ -267,5 +267,10 @@
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Minimum%20Absolute%20Difference%20in%20Sliding%20Submatrix.cpp"> Minimum Absolute Difference in Sliding Submatrix (Leetcode - 3567)</a>
 				</td>
 			</tr>
+			<tr>
+        		<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Construct%20Product%20Matrix.cpp"> Construct Product Matrix (Leetcode - 2906)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>
