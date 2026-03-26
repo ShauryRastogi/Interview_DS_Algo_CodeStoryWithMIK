@@ -124,5 +124,10 @@
 					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Cumulative_Sum(Prefix%20Array)/Equal%20Sum%20Grid%20Partition%20I.cpp"> Equal Sum Grid Partition I (Leetcode - 3546)</a>
 				  </td>
       			</tr>
+				<tr>
+          			  <td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Cumulative_Sum(Prefix%20Array)/Equal%20Sum%20Grid%20Partition%20II.cpp"> Equal Sum Grid Partition II (Leetcode - 3548)</a>
+				  </td>
+      			</tr>
 		</tbody>
 </table>
